@@ -1,0 +1,4 @@
+#/etc/apt
+deb https://ftp.debianclub.org/debian buster main
+deb http://ftp.debianclub.org/debian-security buster/updates main
+deb http://deb.debian.org/debian buster-updates main
